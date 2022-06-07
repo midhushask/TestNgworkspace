@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CreateAccount">
+  <test name="CreateAccountErrorMessageTest">
+      <classes>
+      	<class name="com.lowes.test.createaccount.CreateAccountErrorMessageTest"/>
+      	<class name="com.lowes.test.createaccount.CreateAccountErrorMessageTest2"/>
+      </classes>
+  </test>
+  <test name="FeedbackTest">
+      <classes>
+      	<class name="com.lowes.test.feedback.FeedbackTest"/>
+      </classes>
+  </test>
+</suite>

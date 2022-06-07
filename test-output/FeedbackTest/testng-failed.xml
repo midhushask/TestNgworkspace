@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FeedbackTest]">
+  <test name="FeedbackTest(failed)">
+    <classes>
+      <class name="com.lowes.test.feedback.FeedbackTest">
+        <methods>
+          <include name="submitFeedbackTest"/>
+          <include name="afterClass"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.lowes.test.feedback.FeedbackTest -->
+    </classes>
+  </test> <!-- FeedbackTest(failed) -->
+</suite> <!-- Failed suite [FeedbackTest] -->

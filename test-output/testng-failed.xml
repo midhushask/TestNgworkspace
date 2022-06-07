@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CreateAccount]">
+  <test name="CreateAccountErrorMessageTest(failed)">
+    <classes>
+      <class name="com.lowes.test.createaccount.CreateAccountErrorMessageTest2">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.lowes.test.createaccount.CreateAccountErrorMessageTest2 -->
+      <class name="com.lowes.test.createaccount.CreateAccountErrorMessageTest">
+        <methods>
+          <include name="missingEmailId"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="beforeSuite"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.lowes.test.createaccount.CreateAccountErrorMessageTest -->
+    </classes>
+  </test> <!-- CreateAccountErrorMessageTest(failed) -->
+</suite> <!-- Failed suite [CreateAccount] -->

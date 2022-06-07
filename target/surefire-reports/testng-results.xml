@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FeedbackTest" duration-ms="20309" started-at="2020-08-25T23:42:24Z" finished-at="2020-08-25T23:42:44Z">
+    <groups>
+    </groups>
+    <test name="FeedbackTest" duration-ms="20309" started-at="2020-08-25T23:42:24Z" finished-at="2020-08-25T23:42:44Z">
+      <class name="com.lowes.test.feedback.FeedbackTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.lowes.test.feedback.FeedbackTest@340f438e]" name="beforeSuite" is-config="true" duration-ms="23" started-at="2020-08-25T19:42:24Z" finished-at="2020-08-25T19:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.lowes.test.feedback.FeedbackTest@340f438e]" name="beforeClass" is-config="true" duration-ms="17640" started-at="2020-08-25T19:42:24Z" finished-at="2020-08-25T19:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="submitFeedbackTest()[pri:0, instance:com.lowes.test.feedback.FeedbackTest@340f438e]" name="submitFeedbackTest" duration-ms="1663" started-at="2020-08-25T19:42:42Z" finished-at="2020-08-25T19:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFeedbackTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.lowes.test.feedback.FeedbackTest@340f438e]" name="afterClass" is-config="true" duration-ms="978" started-at="2020-08-25T19:42:43Z" finished-at="2020-08-25T19:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.lowes.test.feedback.FeedbackTest@340f438e]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-08-25T19:42:44Z" finished-at="2020-08-25T19:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.lowes.test.feedback.FeedbackTest -->
+    </test> <!-- FeedbackTest -->
+  </suite> <!-- FeedbackTest -->
+</testng-results>
